@@ -7,8 +7,8 @@
 
 <br>
 <div align="center">
-  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=joychristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychristine&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=JoyChristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br>
@@ -26,7 +26,7 @@
     <img align="center" alt="Samuel-Martins-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- <img align="center" alt="Samuel-Martins-MySQL" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
-    <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin-right: 2%; "src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
@@ -56,4 +56,4 @@
  <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@thesmartcoder7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
-</div> -->
+</div>  -->
