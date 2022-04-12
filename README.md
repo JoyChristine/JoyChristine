@@ -2,7 +2,7 @@
 
 
 **JoyChristine/JoyChristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- ## Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>I am a fullstack developer passionate about solving problems with code.
+ ### Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>I am a fullstack developer passionate about solving problems with code.
  
  
   <b>  </b> <br>
@@ -38,9 +38,6 @@
     <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<br>
-<br>
-
 <!-- ### Tools :
 
  <div style="display: inline_block">
@@ -53,7 +50,7 @@
 <br>
 <br>
 
-## I like knowing new people & collaborating in projects <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="50rem" >
+### I like knowing new people & collaborating in projects <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="50rem" >
 
 <br>
 <div> 
