@@ -1,7 +1,4 @@
-<!-- ### Hi there 👋
 
-
-**JoyChristine/JoyChristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  ### Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>I am a fullstack developer passionate about solving problems with code.
  
  
