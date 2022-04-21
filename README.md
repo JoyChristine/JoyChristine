@@ -1,5 +1,6 @@
 
- ### Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>I am a fullstack developer passionate about solving problems with code.
+ ### Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>
+ I am passionate about solving problems with code.
  
  
   <b>  </b> <br>
