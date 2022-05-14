@@ -34,6 +34,10 @@
  <img align="center" alt="JoyChristine-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
     <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
 
+<h2>GitHub Stats</h2>
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JoyChristine&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=JoyChristine&">
+</a><br>
 
 <!-- ### Tools :
 
