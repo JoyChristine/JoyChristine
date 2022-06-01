@@ -1,11 +1,11 @@
 
- ### Hi, My name is Joy Christine. <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" > <br>I am passionate about solving problems with code.
+ ### Hi, My name is Joy Christine.  <br>I am passionate about solving problems with code.
  
- 
+<!--   <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50rem" >-->
   <b>  </b> <br>
 <div style="display:inline-flex;flex-wrap:wrap">
 
-  <img align="center" alt="JoyChristine-Js" height="30%" width="30%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="center" alt="JoyChristine-Js" height="80%" width="80%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
   
   
 </div>
