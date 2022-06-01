@@ -51,7 +51,8 @@
 <br>
 <br>
 
-### I like knowing new people & collaborating in projects <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="50rem" >
+### I like knowing new people & collaborating in projects 
+<!--  <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="0rem" > -->
 
 <br>
 <div> 
