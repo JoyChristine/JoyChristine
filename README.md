@@ -15,8 +15,8 @@
 <br>
 <br>
 <div>
-  <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=JoyChristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="200rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=JoyChristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="200rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br> 
@@ -33,7 +33,10 @@
     <img align="center" alt="JoyChristine-Angular" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="JoyChristine-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
     <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
 
+ 
+ 
 <h2>GitHub Stats</h2>
 <a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JoyChristine&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=JoyChristine&">
