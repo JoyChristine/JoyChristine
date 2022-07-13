@@ -5,7 +5,7 @@
   <b>  </b> <br>
 <div style="display:inline-flex;flex-wrap:wrap">
 
-  <img align="center" alt="JoyChristine-Js" height="80%" width="80%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<!--   <img align="center" alt="JoyChristine-Js" height="80%" width="80%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> -->
   
   
 </div>
