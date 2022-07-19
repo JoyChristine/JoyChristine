@@ -20,7 +20,7 @@
 </div>
 
 
-### Languages and Frameworks:
+### Languages,Frameworks and Databases:
 
  <div style="display: inline_block"><br>
     <img align="center" alt="JoyChristine-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +33,9 @@
  <img align="center" alt="JoyChristine-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
     <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="JoyChristine-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="JoyChristine-Flask" height="30" width="40" style="margin: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img align="center" alt="JoyChristine-Martins-postgresql" height="40" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
  
  
