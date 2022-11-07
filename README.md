@@ -4,13 +4,13 @@
  ### About Me
 👩🏿‍🎓 I am a recent Full Stack Software development graduate from Moringa School. I also hold a degree in Geomatic Engineering and GIS from Jomo Kenyatta University of Agriculture and Technology<br>
 💡 I'm passionate about learning more about code and collaborating in open source projects<br>
-🧑🏿‍💻 I’m currently learning JavaScript,Angular,Python and Data Structures and Algorithms.<br>
+🧑🏿‍💻 I’m currently learning Machine learning and how it can be integrated in Remote Sensing.<br>
 👩🏿 Pronouns: she/her<br>
 ⚡ Fun fact: I love movies.<br>
 🇰🇪 I live in Kenya.<br>
 
-### 🌳 Current Project
-📷 I'm working on a photography website
+<!-- ### 🌳 Current Project
+ -->
 
 <br>
 <div align="center">
