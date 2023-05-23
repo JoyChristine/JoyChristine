@@ -6,8 +6,9 @@
 💡 I'm passionate about learning more about code and collaborating in open source projects<br>
 🧑🏿‍💻 I’m currently learning Machine learning and how it can be integrated in Remote Sensing.<br>
 👩🏿 Pronouns: she/her<br>
-⚡ Fun fact: I love movies.<br>
-🇰🇪 I live in Kenya.<br>
+⚡ Fun fact: <br>
+ I love movies.<br>
+<!-- 🇰🇪 I in Edinburgh.<br> -->
 
 <!-- ### 🌳 Current Project
  -->
