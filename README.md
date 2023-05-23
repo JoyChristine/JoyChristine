@@ -2,10 +2,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=JoyChristine&label=ProfileViewers&color=brightgreen) -->
  ### Hi, I'm [Joy](https://github.com/JoyChristine), welcome to my page.
  ### About Me
+<!-- 🧑🏿‍💻 I work as a Junior developer  -->
 👩🏿‍🎓 I am a recent Full Stack Software development graduate from Moringa School. I also hold a degree in Geomatic Engineering and GIS from Jomo Kenyatta University of Agriculture and Technology<br>
 💡 I'm passionate about learning more about code and collaborating in open source projects<br>
 🧑🏿‍💻 I’m currently learning Machine learning and how it can be integrated in Remote Sensing.<br>
-👩🏿 Pronouns: she/her<br>
+👩🏿
 ⚡ Fun fact: <br>
  I love movies.<br>
 <!-- 🇰🇪 I in Edinburgh.<br> -->
