@@ -1,28 +1,28 @@
 
-<!-- ![](https://komarev.com/ghpvc/?username=JoyChristine&label=ProfileViewers&color=brightgreen) -->
+<!-- ![](https://komarev.com/ghpvc/?username=JoyChristine&label=ProfileViewers&color=brightgreen) 
  ### Hi, I'm [Joy](https://github.com/JoyChristine), welcome to my page.
  ### About Me
-<!-- 🧑🏿‍💻 I work as a Junior developer  -->
+<!-- 🧑🏿‍💻 I work as a Junior developer  
 👩🏿‍🎓 I am a recent Full Stack Software development graduate from Moringa School. I also hold a degree in Geomatic Engineering and GIS from Jomo Kenyatta University of Agriculture and Technology<br>
 💡 I'm passionate about learning more about code and collaborating in open source projects<br>
 🧑🏿‍💻 I’m currently learning Machine learning and how it can be integrated in Remote Sensing.<br>
 👩🏿
 ⚡ Fun fact: <br>
  I love movies.<br>
-<!-- 🇰🇪 I in Edinburgh.<br> -->
+🇰🇪 I in Edinburgh.<br> 
 
 <!-- ### 🌳 Current Project
- -->
+
 
 <br>
 <div align="center">
   <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=JoyChristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine&layout=compact&langs_count=7&theme=tokyonight"/>
-<!--    <img height="400rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine"/> -->
+  <img height="400rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine"/> 
 </div>
 
 
-### Languages,Frameworks and Databases:
+<!-- ### Languages,Frameworks and Databases:
 
  <div style="display: inline_block"><br>
     <img align="center" alt="JoyChristine-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,14 +41,14 @@
 
  
  
-<h2>GitHub Stats</h2>
+  <h2>GitHub Stats</h2>
 <a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JoyChristine&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=JoyChristine&">
-</a><br>
+</a><br> -->
 
-<!-- #### Profile Visits  -->
+<!-- #### Profile Visits 
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=JoyChristine) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JoyChristine) 
 
  ### Tools :
 
@@ -63,7 +63,7 @@
 <br>
 
 ### Contact me
-<!--  <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="0rem" > -->
+ <img src="https://media.giphy.com/media/gH94kBTHmFum6aMYzu/giphy.gif" width="0rem" > 
 
 <br>
 <div> 
@@ -73,4 +73,4 @@
    <img src="https://img.shields.io/badge/@kim__joy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
  
 
-</div>  
+</div>  -->
